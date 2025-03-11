@@ -4,3 +4,4 @@
 # juego.2.py
 # pygame.
 # pyygame
+# pyygame
